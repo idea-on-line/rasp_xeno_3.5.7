@@ -9,4 +9,6 @@ Instruction on how to install here: http://goo.gl/WKkOv
 
 This patch is based on the work of Paul[1] and fixed for applying cleanly.
 
+Brought to you by http://idea-on-line.it !
+
 [1] http://www.xenomai.org/pipermail/xenomai/2013-February/027752.html
